@@ -16,5 +16,4 @@ Global Account Market 介绍全球账号交易市场的基本概念。
 [点这里联系✈](https://www.feijiji.cc/)
 
 
-Related projects:
-- https://github.com/YOURNAME/account-buying-guide
+More resources: https://www.feijiji.cc/
